@@ -1,5 +1,5 @@
 const assert = require("assert");
-const PN = require("./../src/persianNumber");
+const PN = require("./../src/NumberToPersianWord");
 
 describe("test main functions", () => {
   it("number is converted to persian letters", () => {
